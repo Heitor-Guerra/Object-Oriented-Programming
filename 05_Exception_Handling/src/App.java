@@ -1,5 +1,6 @@
 import loja.Loja;
 import loja.Produto;
+import loja.CodigoDuplicadoException;
 
 import java.util.List;
 import java.util.Scanner;
